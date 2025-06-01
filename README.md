@@ -47,17 +47,6 @@ small_game.pieces: 4x4
 
 assassin.pieces: 4x4
 
-Pieces Configuration File Format
-Create a text file with piece types and quantities:
-F 1    # Flag (1 piece) |
-M 3    # Mines (3 pieces) |
-S 2    # Scouts (2 pieces) |
-A 1    # Assassin (1 piece) |
-1 2    # Rank 1 pieces (2 pieces) |
-2 3    # Rank 2 pieces (3 pieces) |
-
-How to Play
-
 Game Setup
 
 Red pieces are placed on the top rows of the board
