@@ -40,8 +40,11 @@ Board Length: Number of rows for the game board
 Board Width: Number of columns for the game board
 
 Minimum Board Sizes:
+
 basic.pieces: 10x10
+
 small_game.pieces: 4x4
+
 assassin.pieces: 4x4
 
 Pieces Configuration File Format
